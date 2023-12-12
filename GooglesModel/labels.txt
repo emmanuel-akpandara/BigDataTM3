@@ -1,0 +1,5 @@
+0 Duck
+1 Goose
+2 Pelican
+3 Penguin
+4 Stork
