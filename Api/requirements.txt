@@ -1,0 +1,4 @@
+fastai
+fastapi
+python-multipart
+uvicorn
